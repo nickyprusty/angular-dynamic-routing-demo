@@ -1,0 +1,218 @@
+[
+    {
+        "brand": "dell",
+        "id": "dell1001",
+        "categories": [
+            {
+                "id": "C1001",
+                "name": "Laptop",
+                "sub-categories": [
+                    {
+                        "id": "LaptopSC1001",
+                        "name": "For Home",
+                        "series": [
+                            {
+                                "id": "LaptopInspironH001",
+                                "name": "Inspiron",
+                                "products": [
+                                    {
+                                        "id": "LHP1001",
+                                        "name": "5000 Series",
+                                        "models": [
+                                            {
+                                                "id": "LH5000M1001",
+                                                "name": "New 15 (5990)"
+                                            },
+                                            {
+                                                "id": "LH5000M1001",
+                                                "name": "New 14 (5900)"
+                                            },
+                                            {
+                                                "id": "LH5000M1001",
+                                                "name": "New 13 (5230)"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "LaptopSC1002",
+                        "name": "For Home",
+                        "series": [
+                            {
+                                "id": "LaptopVostroH001",
+                                "name": "Vostro",
+                                "products": [
+                                    {
+                                        "id": "LHP1002",
+                                        "name": "3000 Series",
+                                        "models": [
+                                            {
+                                                "id": "LH3000M1001",
+                                                "name": "New 15 (5990)"
+                                            },
+                                            {
+                                                "id": "LH3000M1001",
+                                                "name": "New 14 (5900)"
+                                            },
+                                            {
+                                                "id": "LH3000M1001",
+                                                "name": "New 13 (5230)"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "C1002",
+                "name": "Desktop",
+                "sub-categories": [
+                    {
+                        "id": "DesktopSC1002",
+                        "name": "For Home",
+                        "series": [
+                            {
+                                "id": "DesktopInspironH001",
+                                "name": "Inspiron",
+                                "products": [
+                                    {
+                                        "id": "DHP1001",
+                                        "name": "5000 Series",
+                                        "models": [
+                                            {
+                                                "id": "DH5000M1001",
+                                                "name": "New 15 (5990)"
+                                            },
+                                            {
+                                                "id": "DH5000M1002",
+                                                "name": "New 14 (5900)"
+                                            },
+                                            {
+                                                "id": "DH5000M1003",
+                                                "name": "New 13 (5230)"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "brand": "hp",
+        "id": "hp1001",
+        "categories": [
+            {
+                "id": "hpC1001",
+                "name": "Laptop",
+                "sub-categories": [
+                    {
+                        "id": "LaptopSC1002",
+                        "name": "For Home",
+                        "series": [
+                            {
+                                "id": "LaptopRamdomH001",
+                                "name": "Inspiron",
+                                "products": [
+                                    {
+                                        "id": "LHP10023",
+                                        "name": "200 Series",
+                                        "models": [
+                                            {
+                                                "id": "LH200M1001",
+                                                "name": "New 15 (5990)"
+                                            },
+                                            {
+                                                "id": "LH200M1001",
+                                                "name": "New 14 (5900)"
+                                            },
+                                            {
+                                                "id": "LH200M1001",
+                                                "name": "New 13 (5230)"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "LaptopSC1002",
+                        "name": "For Home",
+                        "series": [
+                            {
+                                "id": "LaptopVostroH001",
+                                "name": "Vostro",
+                                "products": [
+                                    {
+                                        "id": "LHP1002",
+                                        "name": "3000 Series",
+                                        "models": [
+                                            {
+                                                "id": "LH3000M1001",
+                                                "name": "New 15 (5990)"
+                                            },
+                                            {
+                                                "id": "LH3000M1001",
+                                                "name": "New 14 (5900)"
+                                            },
+                                            {
+                                                "id": "LH3000M1001",
+                                                "name": "New 13 (5230)"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "C1002",
+                "name": "Desktop",
+                "sub-categories": [
+                    {
+                        "id": "DesktopSC1002",
+                        "name": "For Home",
+                        "series": [
+                            {
+                                "id": "DesktopInspironH001",
+                                "name": "Inspiron",
+                                "products": [
+                                    {
+                                        "id": "DHP1001",
+                                        "name": "5000 Series",
+                                        "models": [
+                                            {
+                                                "id": "DH5000M1001",
+                                                "name": "New 15 (5990)"
+                                            },
+                                            {
+                                                "id": "DH5000M1002",
+                                                "name": "New 14 (5900)"
+                                            },
+                                            {
+                                                "id": "DH5000M1003",
+                                                "name": "New 13 (5230)"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

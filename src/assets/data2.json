@@ -1,0 +1,41 @@
+{
+    "brands": [
+        {
+            "id": "Brand1001",
+            "name": "Dell"
+        },
+        {
+            "id": "Brand1002",
+            "name": "HP"
+        }
+    ],
+    "categories": [
+        {
+            "id": "Category1001",
+            "brandId": "Brand1001",
+            "name": "Laptop"
+        },
+        {
+            "id": "Category1002",
+            "brandId": "Brand1001",
+            "name": "Desktop"
+        },
+        {
+            "id": "Category1003",
+            "brandId": "Brand1002",
+            "name": "Laptop"
+        },
+        {
+            "id": "Category1004",
+            "brandId": "Brand1002",
+            "name": "Desktop"
+        }
+    ],
+    "sub-categories": [
+        {
+            "id": "subCategoryId",
+            "category-id": "Category1004",
+            "name": "For Home"
+        }
+    ]
+}

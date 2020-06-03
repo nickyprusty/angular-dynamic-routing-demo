@@ -1,0 +1,23 @@
+<p>home works!</p>
+<table border=1>
+    <thead>
+        <tr>
+            <th>id</th>
+            <th>Name</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody *ngIf="displayedData">
+        <tr *ngFor="let data of displayedData[1]">
+            <td>
+                {{data.id}}
+            </td>
+            <td>
+                {{data.name}}
+            </td>
+            <td>
+                <button (click)="view(data.id)">View</button>
+            </td>
+        </tr>
+    </tbody>
+</table>
